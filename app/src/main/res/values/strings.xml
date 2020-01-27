@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Debt Note</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="delete_transaction_button">Delete transaction button</string>
+</resources>
